@@ -2,3 +2,11 @@
 	path = submodules/quay
 	url = https://github.com/gizmohundur/quay.git
 	branch = 3.9.4
+[submodule "submodules/mirror-registry"]
+	path = submodules/mirror-registry
+	url = git@github.com:gizmohundur/mirror-registry.git
+	branch = 1.3.8
+[submodule "submodules/clair"]
+	path = submodules/clair
+	url = git@github.com:gizmohundur/clair.git
+	branch 4.7.2
