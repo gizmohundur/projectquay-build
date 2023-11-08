@@ -1,0 +1,4 @@
+[submodule "submodules/quay"]
+	path = submodules/quay
+	url = https://github.com/gizmohundur/quay.git
+	branch = 3.9.4
