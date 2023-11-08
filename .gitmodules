@@ -9,4 +9,4 @@
 [submodule "submodules/clair"]
 	path = submodules/clair
 	url = git@github.com:gizmohundur/clair.git
-	branch 4.7.2
+	branch = 4.7.2
